@@ -6,7 +6,7 @@ using Example2018
 # 2. additive identity
 # 3. additive inverse
 # 4. addition commutes
-
+#HW add stuff
 
 @testset "Polynomials form a ring" begin 
 
